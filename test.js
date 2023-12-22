@@ -7,4 +7,4 @@
 * 
 * @returns {  }
 */
-const fn = (alpha, beta) => { return alpha ** beta };
+const fn = (alpha, beta) => { return 2 * alpha ** beta };
