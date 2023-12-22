@@ -17,3 +17,4 @@
 * Output = `alpha ** beta`
 */
 const fn = (alpha, beta) => { return alpha ** beta };
+
