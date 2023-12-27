@@ -1,2 +1,6 @@
 def fn():
+  """
+  Nothing.
+
+  """
   pass
