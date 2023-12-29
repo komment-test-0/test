@@ -1,8 +1,4 @@
 def fn():
-  """
-  Nothing.
-
-  """
   pass
 
 
